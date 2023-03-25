@@ -469,6 +469,9 @@ const resolvers = {
         FragmentInstance: () => ({
             Hello: () => 'Fragment!',
             TopLevelReference: () => data.FragmentInstance.TopLevelReference,
+            // TopLevelReference: () => ({
+            //     Agency: () => 'was auch immer...'
+            // }),
             Fragment: {
                 __resolveType (source: any) {
                     if (source.FragmentDdiInstance)         return 'DdiInstance';
