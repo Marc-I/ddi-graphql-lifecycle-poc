@@ -1,17 +1,5 @@
 # DDI GraphQL LifeCycle POC
 
-<div style="text-align: center;">
-    <img src="./icon.svg" style="max-width: 100px;">
-    <div style="color: #fff; padding: 1em; font-size: .75em;">
-    <span>
-        <span style="background-color: #900; padding: .4em .6em; border-radius: .5em 0 0 .5em;">DDI</span><span style="background-color: #666; padding: .4em .6em; border-radius: 0 .5em .5em 0;">Hackathon</span>
-    </span>
-    <span>
-        <span style="background-color: #009; padding: .4em .6em; border-radius: .5em 0 0 .5em;">Gothenburg</span><span style="background-color: #666; padding: .4em .6em; border-radius: 0 .5em .5em 0;">2023</span>
-    </span>
-    </div>
-</div>
-
 ## Install
 Install NPM Packages
 ```
